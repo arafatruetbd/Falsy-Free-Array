@@ -12,7 +12,7 @@ In JavaScript, the following values are considered falsy:
 These values are considered falsy because they evaluate to `false` when used in a boolean context. Any other value that is not explicitly falsy is considered truthy.
 
 
-### how to remove falsy value from array
+### How to remove falsy value from array
 
 To remove falsy values from an array in JavaScript, you can use various approaches. Here are a few methods you can use:
 
